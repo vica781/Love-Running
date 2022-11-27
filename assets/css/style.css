@@ -167,7 +167,7 @@ hr {
 
 #welcome {
     text-align: center;
-    margin: 2s0px 0;
+    margin: 20px 0;
     font-size: 280%;
 }
 
@@ -213,4 +213,25 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
